@@ -33,4 +33,4 @@ A documentação está organizada em pastas que correspondem aos capítulos do G
 Este conteúdo é distribuído sob a licença **MIT**, o que significa que você é livre para usar, copiar, modificar e distribuir, desde que mantenha os créditos aos autores originais.
 
 ---
-*Feito com 💙 por Leonardo Tito.*
+*Feito com 💙 por Leonardo Tito (антракс_99).*
