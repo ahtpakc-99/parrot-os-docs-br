@@ -23,7 +23,7 @@ Bash
 sudo ./VMware-Workstation-Full-xxxx.x86_64.bundle
 O instalador gráfico abrirá. Siga as instruções e, ao final, o VMware estará no seu menu de aplicativos.
 
-Passo 2 - Criar uma Nova Máquina Virtual
+## Passo 2 - Criar uma Nova Máquina Virtual
 Abra o VMware.
 
 Clique em Create a New Virtual Machine (Criar Nova Máquina Virtual).
@@ -73,7 +73,7 @@ Display/USB: Certifique-se de que a aceleração 3D e controladores USB estejam 
 
 Clique em Close e depois em Finish.
 
-Passo 3 - Instalar o Parrot na VM
+## Passo 3 - Instalar o Parrot na VM
 Sua Máquina Virtual está pronta, mas o disco ainda está "vazio".
 
 Na lista lateral do VMware, selecione seu Parrot Security e clique em Play virtual machine.
