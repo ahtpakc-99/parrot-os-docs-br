@@ -6,7 +6,6 @@
 **Iniciar um container**
 ```bash
 docker run --name pcore-1 -ti parrotsec/core
-
 ```
 
 > **Nota:** O nome `pcore-1` é arbitrário e pode ser personalizado conforme sua preferência.
