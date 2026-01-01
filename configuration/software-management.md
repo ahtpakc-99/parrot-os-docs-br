@@ -1,4 +1,4 @@
-### Gerenciamento de Software (APT)
+# Gerenciamento de Software (APT)
 
 Neste capítulo, apresentaremos o gerenciador de pacotes **apt** do Parrot.
 
