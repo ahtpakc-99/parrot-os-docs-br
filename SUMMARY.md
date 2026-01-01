@@ -1,57 +1,58 @@
-# Índice
+# Table of Contents
 
 * [Introdução](README.md)
 
-## Introdução (Introduction)
-* [O que é o Parrot?](introduction/what-is-parrot.md)
-* [Fundamentos de GNU/Linux](introduction/linux-basics.md)
-* [Baixando o Parrot](introduction/download-parrot.md)
-* [Comunidade e Contribuidores](introduction/community.md)
+## Introdução
+* [Introdução (Introduction)](introducao.md)
+* [O que é o Parrot?](o-que-e-parrot.md)
+* [Fundamentos de GNU/Linux](fundamentos-linux.md)
+* [Baixando o Parrot](baixando-parrot.md)
+* [Comunidade e Contribuidores](comunidade.md)
 
-## Instalação (Installation)
-* [Guia de Instalação Padrão](installation/install-guide.md)
-* [Dual Boot com Windows](installation/dual-boot.md)
-* [Edição WSL (Windows Subsystem)](installation/wsl-edition.md)
-* [Particionamento Manual](installation/manual-partitioning.md)
-* [Instalação no Raspberry Pi](installation/raspberry-pi.md)
+## Instalação
+* [Guia de Instalação Padrão](instalacao-padrao.md)
+* [Dual Boot com Windows](dual-boot.md)
+* [Edição WSL (Windows Subsystem)](wsl.md)
+* [Particionamento Manual](particionamento.md)
+* [Instalação no Raspberry Pi](raspberry-pi.md)
 
-## Virtualização (Virtualization)
-* [VirtualBox](virtualization/virtualbox.md)
-* [VMware](virtualization/vmware.md)
-* [UTM (Apple Silicon)](virtualization/utm.md)
-* [Guest Additions](virtualization/guest-additions.md)
+## Virtualização
+* [VirtualBox](virtualbox.md)
+* [VMware](vmware.md)
+* [UTM (Apple Silicon)](utm.md)
+* [Guest Additions](guest-additions.md)
 
-## Configuração (Configuration)
-* [Gerenciamento de Software (APT)](configuration/software-management.md)
-* [Drivers de Vídeo Nvidia](configuration/nvidia-drivers.md)
-* [Ambientes de Desktop (DE)](configuration/desktop-environments.md)
-* [Permissões de Arquivos](configuration/file-permissions.md)
-* [AppArmor](configuration/apparmor.md)
-* [Verificação de Hashes e Chaves](configuration/hash-verification.md)
-* [Tecnologias Assistivas](configuration/assistive-technologies.md)
-* [Configuração de Impressoras](configuration/printers.md)
-* [Otimização SSD (TRIM)](configuration/ssd-trim.md)
+## Configuração
+* [Gerenciamento de Software (APT)](software.md)
+* [Drivers de Vídeo Nvidia](nvidia.md)
+* [Ambientes de Desktop (DE)](desktop-environments.md)
+* [Permissões de Arquivos](permissoes.md)
+* [AppArmor](apparmor.md)
+* [Verificação de Hashes e Chaves](hash.md)
+* [Tecnologias Assistivas](acessibilidade.md)
+* [Configuração de Impressoras](impressoras.md)
+* [Otimização SSD (TRIM)](ssd-trim.md)
 
 ## Containers
-* [Imagens Docker](containers/docker-images.md)
-* [Exemplos de Uso Docker](containers/docker-usage.md)
-* [Parrot no Apple Container](containers/apple-container.md)
+* [Imagens Docker](docker-images.md)
+* [Exemplos de Uso Docker](docker-usage.md)
+* [Parrot no Apple Container](apple-container.md)
 
 ## USB (Live Mode)
-* [Criando um USB Bootável](usb/create-bootable-usb.md)
-* [Modo Persistência (Salvar Dados)](usb/persistence.md)
-* [Modo Forense (Forensic)](usb/forensic-mode.md)
+* [Criando um USB Bootável](criando-usb.md)
+* [Modo Persistência (Salvar Dados)](persistencia.md)
+* [Modo Forense (Forensic)](forensic.md)
 
-## Solução de Problemas (Troubleshooting)
-* [Recuperação do GRUB (Boot)](troubleshooting/grub-recovery.md)
-* [Logs do Sistema](troubleshooting/system-logs.md)
+## Solução de Problemas
+* [Recuperação do GRUB (Boot)](grub.md)
+* [Logs do Sistema](logs.md)
 
-## Ferramentas (Tools)
-* [AnonSurf (Privacidade/Tor)](tools/anonsurf.md)
-* [Nmap (Network Mapper)](tools/nmap.md)
-* [Rclone (Cloud Storage)](tools/rclone.md)
-* [Wget](tools/wget.md)
+## Ferramentas
+* [AnonSurf (Privacidade/Tor)](anonsurf.md)
+* [Nmap (Network Mapper)](nmap.md)
+* [Rclone (Cloud Storage)](rclone.md)
+* [Wget](wget.md)
 
 ## Espelhos (Mirrors)
-* [Lista de Mirrors](mirrors/mirrors-list.md)
-* [Como criar seu próprio Mirror](mirrors/make-mirror.md)
+* [Lista de Mirrors](mirrors.md)
+* [Como criar seu próprio Mirror](make-your-mirror.md)
