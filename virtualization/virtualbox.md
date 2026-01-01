@@ -9,7 +9,8 @@ Primeiro, você precisa ter o software de virtualização instalado.
 * **GNU/Linux (Debian/Ubuntu/Parrot):** Instale via terminal:
   ```bash
   sudo apt update && sudo apt install virtualbox virtualbox-ext-pack
-2. Criando a Máquina Virtual
+
+## 2. Criando a Máquina Virtual
 Abra o VirtualBox e clique no botão Novo (New).
 
 Nome: Digite Parrot Security.
@@ -40,7 +41,7 @@ Alocação: Deixe marcada a opção "Pré-alocar tamanho total" se quiser perfor
 
 Clique em Finalizar.
 
-3. Ajustes Finos (Importante)
+## 3. Ajustes Finos (Importante)
 Antes de ligar a máquina, vamos otimizar as configurações. Selecione sua VM do Parrot e clique em Configurações (Settings).
 
 Geral > Avançado
@@ -75,7 +76,7 @@ Selecione Controladora USB 3.0 (xHCI) para melhor velocidade.
 
 Clique em OK para salvar tudo.
 
-4. Instalação do Sistema
+## 4. Instalação do Sistema
 Agora está tudo pronto.
 
 Na tela principal, clique em Iniciar (Start).
