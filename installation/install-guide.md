@@ -62,6 +62,3 @@ Ao finalizar:
 1. Marque a caixa **"Reiniciar agora"**.
 2. Clique em **Concluído**.
 3. Quando a tela ficar preta e pedir, **remova o Pen Drive** e aperte **Enter**.
-
----
-**Próximo Passo:** [Configuração Pós-Instalação (Updates)](../configuration/system-updates.md)
