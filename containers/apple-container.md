@@ -1,7 +1,3 @@
-Aqui está o conteúdo sobre o **Apple Container** (anunciado na WWDC 2025) traduzido e formatado em um único bloco Markdown, pronto para ser adicionado à documentação.
-
----
-
 # Apple Container (macOS Silicon)
 
 Durante a WWDC mais recente (2025), foi anunciada e lançada a **Containerização**, um software que "executa cada container Linux dentro de sua própria máquina virtual leve" em processadores **Apple Silicon**, começando a partir do **macOS 15 Sequoia** e **macOS 26 Tahoe**.
