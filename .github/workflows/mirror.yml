@@ -14,7 +14,7 @@ jobs:
           fetch-depth: 0
       - name: Push to GitLab
         run: |
-          # Sincroniza todas as branches
+          # Sincroniza apenas as branches (evita referências ocultas)
           git push --force https://oauth2:${{ secrets.GITLAB_PASSWORD }}@gitlab.com/leotito201/parrot-os-docs-br.git refs/heads/*:refs/heads/*
-          # Sincroniza todas as tags
-          git push --force https://oauth2:${{ secrets.GITLAB_PASSOWRD }}@gitlab.com/leotito201/parrot-os-docs-br.git refs/tags/*:refs/tags/*
+          # Sincroniza as tags
+          git push --force https://oauth2:${{ secrets.GITLAB_PASSWORD }}@gitlab.com/leotito201/parrot-os-docs-br.git refs/tags/*:refs/tags/*
