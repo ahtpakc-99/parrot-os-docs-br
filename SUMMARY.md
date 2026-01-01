@@ -2,25 +2,25 @@
 
 * [Introdução](README.md)
 
-## Introdução
+## introduction
 * [O que é o Parrot?](introduction/what-is-parrot.md)
 * [Fundamentos de GNU/Linux](introduction/linux-basics.md)
 * [Baixando o Parrot](introduction/download-parrot.md)
 * [Comunidade e Contribuidores](introduction/community.md)
 
-## Instalação
+## installation
 * [Guia de Instalação Padrão](installation/install-guide.md)
 * [Dual Boot com Windows](installation/dual-boot.md)
 * [Edição WSL (Windows Subsystem)](installation/wsl-edition.md)
 * [Particionamento Manual](installation/manual-partitioning.md)
 * [Instalação no Raspberry Pi](installation/raspberry-pi.md)
 
-## Virtualização
+## virtualization
 * [VirtualBox](virtualization/virtualbox.md)
 * [UTM (Apple Silicon)](virtualization/utm.md)
 * [Guest Additions](virtualization/guest-additions.md)
 
-## Configuração
+## configuration
 * [Gerenciamento de Software (APT)](configuration/software-management.md)
 * [Drivers de Vídeo Nvidia](configuration/nvidia.md)
 * [Ambientes de Desktop (DE)](configuration/desktop-environments.md)
@@ -31,29 +31,29 @@
 * [Configuração de Impressoras](configuration/printer.md)
 * [Otimização SSD (TRIM)](configuration/ssd-trim.md)
 
-## Containers
+## containers
 * [Imagens Docker](containers/docker.md)
 * [Exemplos de Uso Docker](containers/docker-use.md)
 * [Parrot no Apple Container](containers/apple-container.md)
 * [Parrot no WSL](containers/wsl.md)
 
-## USB (Live Mode)
+## usb
 * [Criando um USB Bootável](usb/bootavel.md)
 * [Modo Persistência (Salvar Dados)](usb/persistence.md)
 
-## Desenvolvimento
+## development
 * [Configuração do Ambiente](development/development-environment-setup.md)
 * [Construção de Pacotes](development/building-packages.md)
 
-## Solução de Problemas
+## troubleshooting
 * [Recuperação do GRUB (Boot)](troubleshooting/grub.md)
 
-## Ferramentas
+## tools
 * [AnonSurf (Privacidade/Tor)](tools/anonsurf.md)
 * [Nmap (Network Mapper)](tools/nmap.md)
 * [Rclone (Cloud Storage)](tools/rclone.md)
 * [Wget](tools/wget.md)
 
-## Espelhos (Mirrors)
+## mirrors
 * [Lista de Mirrors](mirrors/mirrors.md)
 * [Como criar seu próprio Mirror](mirrors/make-your-own-mirror.md)
